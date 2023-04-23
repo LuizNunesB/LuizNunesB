@@ -15,4 +15,4 @@
 <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 </div>
 <br>
-Um grande apreciador de novas tecnologias 💻 e também adoro um café ☕
+## Um grande apreciador de novas tecnologias 💻 e também adoro um café ☕
